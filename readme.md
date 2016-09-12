@@ -99,6 +99,7 @@ Just follow the [Airbnb Javascript Style Guide](https://github.com/airbnb/javasc
 - Google HTML / CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
 - Browser Diet: https://browserdiet.com/
 - Airbnb Javascript Style Guide: https://github.com/airbnb/javascript
+- Oh, shit, git: http://ohshitgit.com/
 
 ## Sublime Text Plugins
 - EditorConfig - https://github.com/sindresorhus/editorconfig-sublime
