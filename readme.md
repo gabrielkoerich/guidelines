@@ -7,7 +7,7 @@ Guidelines
 * Use the present tense ("Add feature" not "Added feature") and the imperative mood ("Move class to..." not "Moves class to...") on commits and pull requests.
 * Pull requests must be reviewed before merged.
 * All classes and functions names must be in english. Avoid abbreviations.
-* Use 2 spaces indentation for HTML, CSS and Javascript. 4 spaces for PHP. The [boilerplate repository](https://github.com/clintdigital/clintdigital-boilerplate) starts with a `.editorconfig` file. You should install the [EditorConfig Plugin](https://github.com/sindresorhus/editorconfig-sublime) to configure automatically your Sublime Text.
+* Use 2 spaces indentation for HTML, CSS and Javascript. 4 spaces for PHP. You should install the [EditorConfig Plugin](https://github.com/sindresorhus/editorconfig-sublime) to configure automatically your Sublime Text.
 
 ## PHP Coding Style
 
