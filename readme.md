@@ -3,7 +3,7 @@ Guidelines
 
 ## General
 
-* Contributions must follow the [GitHub Flow](https://guides.github.com/introduction/flow) with slightly modifications. Create a new branch and pull request it to **develop**. Never directly to **master**.
+* Contributions must follow the [GitHub Flow](https://guides.github.com/introduction/flow) with slight modifications. Create a new branch and pull request it to **develop**. Never directly to **master**.
 * Use the present tense ("Add feature" not "Added feature") and the imperative mood ("Move class to..." not "Moves class to...") on commits and pull requests.
 * Pull requests must be reviewed before merged.
 * All classes, functions and variables names must be in english. Avoid abbreviations.
